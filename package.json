@@ -1,0 +1,38 @@
+{
+  "name": "node-dahua-api",
+  "version": "1.0.4",
+  "description": "Dahua HTTP API Module",
+  "main": "dahua.js",
+  "dependencies": {
+    "image-to-base64": "^2.0.1",
+    "keypather": "^3.0.0",
+    "moment": "^2.24.0",
+    "net-keepalive": "^1.1.1",
+    "nodemailer": "^6.3.0",
+    "nw_node": "^1.2.2",
+    "path": "^0.12.7",
+    "request": "^2.85.0",
+    "request-progress": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayrnet/node-dahua-api.git"
+  },
+  "keywords": [
+    "Dahua",
+    "PTZ",
+    "IPC",
+    "Security Camera",
+    "Home Automation"
+  ],
+  "author": "Ryan Hunt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nayrnet/node-dahua-api/issues"
+  },
+  "homepage": "https://github.com/nayrnet/node-dahua-api#readme"
+}
